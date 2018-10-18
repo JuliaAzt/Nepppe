@@ -73,7 +73,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 $active_group = 'default';
 $query_builder = TRUE;
-
+/*
 $db['default'] = array(
 	'dsn'	=> '',
 	'hostname' => 'ohio.ufop.br',
@@ -95,8 +95,8 @@ $db['default'] = array(
 	'failover' => array(),
 	'save_queries' => TRUE
 );
+*/
 
-/*
 $active_group = 'default';
 $query_builder = TRUE;
 
@@ -105,7 +105,7 @@ $db['default'] = array(
 	'hostname' => 'localhost',
 	'username' => 'root',
 	'password' => '',
-	'database' => 'nepppe',
+	'database' => 'nepppe_nepppe', //'nepppe',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
@@ -121,4 +121,3 @@ $db['default'] = array(
 	'failover' => array(),
 	'save_queries' => TRUE
 );
-*/

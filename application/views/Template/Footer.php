@@ -16,7 +16,7 @@
 
                 </div>
                  <div class="col-sm-3" style="color:#ffffff; margin-top: 25px; margin-left: -10px; text-align: center;">
-                    <h6>Instituto de Ciências Hunamas e Sociais</h6>
+                    <h6>Instituto de Ciências Humanas e Sociais</h6>
                     <p>Mariana, Minas Gerais<br>
                        CEP 35420-000</p>
                 </div>
@@ -25,7 +25,7 @@
                 </div>
             </div>
             <div class="col-sm-12" style="color:#ffffff;">
-                    <a class="btn btn-red btn-block" role="button" align="centered" href="http://voluta.ufop.br/" style="color: #ffffff; background-color: #790505; border-color: #790505; font-size: 10px;">&copy; Voluta Soluções Digitais, <script type="text/javascript">
+                    <a class="btn btn-red btn-block" role="button" align="centered" href="http://voluta.ufop.br/" style="color: #ffffff; background-color: #790505; border-color: #790505; font-size: 12px;">&copy; Voluta Soluções Digitais, <script type="text/javascript">
                                         var theDate=new Date()
                                         document.write(theDate.getFullYear())
                                         </script>

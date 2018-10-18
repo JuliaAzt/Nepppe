@@ -168,46 +168,46 @@
             
               <ul class="list-group">
                 <li class="list-group-item-neppe d-flex justify-content-between align-items-center">ABAVE - Associação Brasileira de Avaliação Educacional
-                    <a href="http://ixreuniao.abave.org.br/"><span class="btn btn-neppe badge-pill">Acessar</span></a>
+                    <a href="http://ixreuniao.abave.org.br/" target="_blank"><span class="btn btn-neppe badge-pill">Acessar</span></a>
                 </li>
                 <li class="list-group-item-neppe d-flex justify-content-between align-items-center">ANPAE - Associação Nacional de Política e Administração da Educação
-                    <a href="http://www.anpae.org.br/website/"><span class="btn btn-neppe badge-pill">Acessar</span></a>
+                    <a href="http://www.anpae.org.br/website/" target="_blank"><span class="btn btn-neppe badge-pill">Acessar</span></a>
                 </li>
                 <li class="list-group-item-neppe d-flex justify-content-between align-items-center">ANPEd - Associação Nacional de Pós-Graduação e Pesquisa em Educação
-                    <a href="http://www.anped.org.br/"><span class="btn btn-neppe badge-pill">Acessar</span></a>
+                    <a href="http://www.anped.org.br/" target="_blank"><span class="btn btn-neppe badge-pill">Acessar</span></a>
                 </li>
                 <li class="list-group-item-neppe d-flex justify-content-between align-items-center">Portal de Periódicos CAPES
-                    <a href="http://www.periodicos.capes.gov.br/"><span class="btn btn-neppe badge-pill">Acessar</span></a>
+                    <a href="http://www.periodicos.capes.gov.br/" target="_blank" ><span class="btn btn-neppe badge-pill">Acessar</span></a>
                 </li>
                 <li class="list-group-item-neppe d-flex justify-content-between align-items-center">ANPOCS - Associação Nacional de Pós-Graduação e Pesquisa em Ciências Sociais
-                    <a href="http//www.anpocs.com"><span class="btn btn-neppe badge-pill">Acessar</span></a>
+                    <a href="http://www.anpocs.com" target="_blank"><span class="btn btn-neppe badge-pill">Acessar</span></a>
                 </li>
                  <li class="list-group-item-neppe d-flex justify-content-between align-items-center">INEP
-                    <a href="http://portal.inep.gov.br/indicadores-educacionais"><span class="btn btn-neppe badge-pill">Acessar</span></a>
+                    <a href="http://portal.inep.gov.br/indicadores-educacionais" target="_blank"><span class="btn btn-neppe badge-pill">Acessar</span></a>
                 </li>
                  <li class="list-group-item-neppe d-flex justify-content-between align-items-center">Mapa da Sociedade Civil Organizada-IPEA
-                    <a href="https://mapaosc.ipea.gov.br/"><span class="btn btn-neppe badge-pill">Acessar</span></a>
+                    <a href="https://mapaosc.ipea.gov.br/" target="_blank" ><span class="btn btn-neppe badge-pill">Acessar</span></a>
                 </li>
                  <li class="list-group-item-neppe d-flex justify-content-between align-items-center">MUNIC/IBGE
                     <a href="https://ww2.ibge.gov.br/home/estatistica/economia/perfilmunic/default.shtm"><span class="btn btn-neppe badge-pill">Acessar</span></a>
                 </li>
                  <li class="list-group-item-neppe d-flex justify-content-between align-items-center">IBGE/Estados
-                    <a href="https://ww2.ibge.gov.br/estadic2014/"><span class="btn btn-neppe badge-pill">Acessar</span></a>
+                    <a href="https://ww2.ibge.gov.br/estadic2014/" target="_blank" ><span class="btn btn-neppe badge-pill">Acessar</span></a>
                 </li>
                  <li class="list-group-item-neppe d-flex justify-content-between align-items-center">Laboratório de Dados Educacionais
-                    <a href="https://dadoseducacionais.c3sl.ufpr.br/#/"><span class="btn btn-neppe badge-pill">Acessar</span></a>
+                    <a href="https://dadoseducacionais.c3sl.ufpr.br/#/" target="_blank"><span class="btn btn-neppe badge-pill">Acessar</span></a>
                 </li>
                 <li class="list-group-item-neppe d-flex justify-content-between align-items-center">GIAR/UFMG
-                    <a href="http://www.giars.ufmg.br/?r=site/index_pt"><span class="btn btn-neppe badge-pill">Acessar</span></a>
+                    <a href="http://www.giars.ufmg.br/?r=site/index_pt" target="_blank"><span class="btn btn-neppe badge-pill">Acessar</span></a>
                 </li>
                 <li class="list-group-item-neppe d-flex justify-content-between align-items-center">REIPPE
-                    <a href="https://redereippe.wixsite.com/reippe"><span class="btn btn-neppe badge-pill">Acessar</span></a>
+                    <a href="https://redereippe.wixsite.com/reippe" target="_blank"><span class="btn btn-neppe badge-pill">Acessar</span></a>
                 </li>
                 <li class="list-group-item-neppe d-flex justify-content-between align-items-center">Programa de Pós-Graduação em Educação da UFOP
-                    <a href="http://posedu.ufop.br/"><span class="btn btn-neppe badge-pill">Acessar</span></a>
+                    <a href="http://posedu.ufop.br/" target="_blank"><span class="btn btn-neppe badge-pill">Acessar</span></a>
                 </li>
                 <li class="list-group-item-neppe d-flex justify-content-between align-items-center">Plataforma Lattes
-                    <a href="http://lattes.cnpq.br/"><span class="btn btn-neppe badge-pill">Acessar</span></a>
+                    <a href="http://lattes.cnpq.br/" target="_blank"><span class="btn btn-neppe badge-pill">Acessar</span></a>
                 </li>
               </ul>
             </p>
